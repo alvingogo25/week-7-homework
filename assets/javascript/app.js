@@ -1,11 +1,11 @@
 // Initialize Firebase
 var config = {
-  apiKey: "AIzaSyAVBIer18hiNyT8LRqtRprtdo-WIuLjmtw",
-  authDomain: "train-schedule-65011.firebaseapp.com",
-  databaseURL: "https://train-schedule-65011.firebaseio.com",
-  projectId: "train-schedule-65011",
+  apiKey: "AIzaSyCaNTm2FFpVB7D6xzg6Mthrdbj_XU26dqk",
+  authDomain: "alvin-train-schedule.firebaseapp.com",
+  databaseURL: "https://alvin-train-schedule.firebaseio.com",
+  projectId: "alvin-train-schedule",
   storageBucket: "",
-  messagingSenderId: "556779219616"
+  messagingSenderId: "269036602585"
 };
 firebase.initializeApp(config);
 
